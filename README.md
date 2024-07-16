@@ -2,7 +2,7 @@
 
 My name is Florian Blume and I'm a PhD student in the field of machine learning/computer vision at TU Berlin. I'm currently working on facial expression recognition in light of context information, like affective knowledge about a person.
 
-Checkout my pages at [Sciene of Intelligence](https://www.scienceofintelligence.de/people/florian-blume/) and [TU Berlin](https://www.cv.tu-berlin.de/menue/mitarbeiter/florian_blume/) and our [research project page](https://www.scienceofintelligence.de/research/researchprojects/project_08/).
+Checkout [my website](https://florianblume.github.io/) and my pages at [Sciene of Intelligence](https://www.scienceofintelligence.de/people/florian-blume/) and [TU Berlin](https://www.cv.tu-berlin.de/menue/mitarbeiter/florian_blume/) and our [research project page](https://www.scienceofintelligence.de/research/researchprojects/project_08/).
 
 My profiles:
 [LinkedIn](https://www.linkedin.com/in/florian-blume-bb303084/), [Research Gate](https://www.researchgate.net/profile/Florian-Blume), [Google Scholar](https://scholar.google.com/citations?user=OiGcnToAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-7557-1508), [Stackoverflow](https://stackoverflow.com/users/3165451/florian-blume).
