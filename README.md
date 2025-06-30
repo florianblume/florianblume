@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name is Florian Blume and I'm a PhD student in the field of machine learning/computer vision at TU Berlin. I'm currently working on facial expression recognition in light of context information, like affective knowledge about a person.
+My name is Florian Blume and I have a PhD in the field of machine learning/computer vision from TU Berlin. My work was on facial expression recognition (FER) in light of context information, like affective knowledge about a person. I integrated multi-modal contexts to augment FER and align machine processing better with human perception and published works on synthesising context-augmented facial expressions that represent how humans would perceive the emotional display. I'm also the author of the 6D pose annotation tool [6D-PAT](https://github.com/florianblume/6d-pat) and various small Qt3D project implementations.
 
 Checkout [my website](https://florianblume.github.io/) and my pages at [Sciene of Intelligence](https://www.scienceofintelligence.de/people/florian-blume/) and [TU Berlin](https://www.cv.tu-berlin.de/menue/mitarbeiter/florian_blume/) and our [research project page](https://www.scienceofintelligence.de/research/researchprojects/project_08/).
 
